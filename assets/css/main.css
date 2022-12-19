@@ -2886,7 +2886,7 @@ input, select, textarea {
 		}
 
 	ul.divided li {
-		border-top-color: #eeeeee;
+		border-top-color: #241D1D;
 	}
 
 	ul.icons li a.icon:hover:before {
@@ -2894,7 +2894,7 @@ input, select, textarea {
 	}
 
 	ul.icons.alt li .icon:before {
-		box-shadow: inset 0 0 0 2px #eeeeee;
+		box-shadow: inset 0 0 0 2px #241D1D;
 	}
 
 	ul.icons.alt li a.icon:hover:before {
@@ -2997,7 +2997,7 @@ input, select, textarea {
 		}
 
 	header.major .date:before, header.major .date:after {
-		border-top-color: #eeeeee;
+		border-top-color: #241D1D;
 	}
 
 /* Table */
